@@ -23,10 +23,10 @@ repository               : "marulraj/marulraj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Malar"
+  avatar           : "Malar.png"
+  name             : "Malar Arulraj"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Research Scientist"
   location         : "Maryland, United States"
   employer         : "University of Maryland College Park"
   uri              : # URL
